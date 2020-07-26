@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our Github Hackondor slide!"
 ---
-This is hackondor slide
+This is my awesome slide
 Use the left arrow to go back!
